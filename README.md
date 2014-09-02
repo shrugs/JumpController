@@ -3,6 +3,8 @@
 
 Jailbreak tweak that lets you control the iOS UI with Leap Motion Gestures.
 
+[Check it out on ChallengePost!](http://challengepost.com/software/jump)
+
 Implemented with [Jump](https://github.com/Shrugs/Jump) and depends on [JumpApp](https://github.com/Shrugs/JumpApp).
 
 - Pull up for switcher
