@@ -1,0 +1,10 @@
+Package: com.shrugs.jumpcontroller
+Name: JumpController
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Matt Condon
+Author: Matt Condon
+Section: Tweaks
+Version: 0.0.1-126
+Installed-Size: 536
